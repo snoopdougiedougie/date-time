@@ -11,3 +11,5 @@ You can get that value by entering:
 `go run main.go -y 2022 -mo 8 -d 2 -h 18 -mi 7 -s 0 -ms 0`
 
 The `go test` unit test uses these values.
+
+You can contact me at snoopdougiedoug@gmail.com
